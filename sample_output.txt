@@ -1,0 +1,57 @@
+
+VEHICLE INVENTORY PROGRAM OUTPUT: 
+
+
+VIN:        |  1HGB41JXMN109186
+Year:       |  2007
+Make:       |  Hyundai
+Model:      |  Accord
+Mileage:    |  185000
+Color:      |  Blue
+Drivetrain: |  N/A
+Condition:  |  N/A
+Value:      |  0
+
+
+VIN:        |  1234HJH4891329H2
+Year:       |  1998
+Make:       |  Chevrolet
+Model:      |  Malibu
+Mileage:    |  213370
+Color:      |  White
+Drivetrain: |  4X2
+Condition:  |  Junk
+Value:      |  450
+
+
+VIN:        |  2183945143NG8432
+Year:       |  2013
+Make:       |  Volkswagen
+Model:      |  Beetle
+Mileage:    |  87000
+Color:      |  Yellow
+Drivetrain: |  N/A
+Condition:  |  N/A
+Value:      |  0
+
+
+VIN:        |  1289HOSA394304J9
+Year:       |  2005
+Make:       |  Nissan
+Model:      |  Micra
+Mileage:    |  259020
+Color:      |  Red
+Drivetrain: |  N/A
+Condition:  |  N/A
+Value:      |  0
+
+
+VIN:        |  F43HLASDFO435N43
+Year:       |  2014
+Make:       |  Ford
+Model:      |  Fiesta
+Mileage:    |  30500
+Color:      |  Gold
+Drivetrain: |  N/A
+Condition:  |  N/A
+Value:      |  0
